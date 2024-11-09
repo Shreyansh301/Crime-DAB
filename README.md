@@ -1,2 +1,2 @@
 # Crime-DAP
-Community Safety and Awarness
+Community Safety and Awareness
