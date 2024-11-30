@@ -53,8 +53,11 @@ Crime DAB is a mobile application designed to enhance community safety and aware
 ### **Design**:
 - Custom widgets and themed UI to depict a crime prevention application with professional aesthetics.
 
-## Screenshot
+## 📸 Screenshots
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-30 at 19 45 24](https://github.com/user-attachments/assets/41d019a5-c2d6-4081-ab01-4a7f19eac2e4)
+### Login Page
+
+<img src="https://github.com/user-attachments/assets/41d019a5-c2d6-4081-ab01-4a7f19eac2e4" alt="Simulator Screenshot - iPhone 15 Pro - 2024-11-30 at 19 45 24" width="300">
+
 
 
